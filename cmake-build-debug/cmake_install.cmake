@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/User/OneDrive/Documents/GitHub/C-project
+# Install script for directory: C:/Users/User/OneDrive/Documents/GitHub/UwU-Translator
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/User/OneDrive/Documents/GitHub/C-project/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/User/OneDrive/Documents/GitHub/UwU-Translator/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
